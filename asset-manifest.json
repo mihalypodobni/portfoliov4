@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfoliov4/static/css/main.85d5dcca.chunk.css",
+    "main.js": "/portfoliov4/static/js/main.fbf9999b.chunk.js",
+    "main.js.map": "/portfoliov4/static/js/main.fbf9999b.chunk.js.map",
+    "runtime-main.js": "/portfoliov4/static/js/runtime-main.242cf51d.js",
+    "runtime-main.js.map": "/portfoliov4/static/js/runtime-main.242cf51d.js.map",
+    "static/js/2.b689cdfe.chunk.js": "/portfoliov4/static/js/2.b689cdfe.chunk.js",
+    "static/js/2.b689cdfe.chunk.js.map": "/portfoliov4/static/js/2.b689cdfe.chunk.js.map",
+    "static/js/3.38ed44e6.chunk.js": "/portfoliov4/static/js/3.38ed44e6.chunk.js",
+    "static/js/3.38ed44e6.chunk.js.map": "/portfoliov4/static/js/3.38ed44e6.chunk.js.map",
+    "index.html": "/portfoliov4/index.html",
+    "static/css/main.85d5dcca.chunk.css.map": "/portfoliov4/static/css/main.85d5dcca.chunk.css.map",
+    "static/js/2.b689cdfe.chunk.js.LICENSE.txt": "/portfoliov4/static/js/2.b689cdfe.chunk.js.LICENSE.txt",
+    "static/media/asci.ad6d3486.png": "/portfoliov4/static/media/asci.ad6d3486.png",
+    "static/media/glitch.651ad59c.png": "/portfoliov4/static/media/glitch.651ad59c.png",
+    "static/media/oimachi.png": "/portfoliov4/static/media/oimachi.78ea56a9.png",
+    "static/media/raster.png": "/portfoliov4/static/media/raster.202fe326.png",
+    "static/media/video.58d8ea19.mp4": "/portfoliov4/static/media/video.58d8ea19.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.242cf51d.js",
+    "static/js/2.b689cdfe.chunk.js",
+    "static/css/main.85d5dcca.chunk.css",
+    "static/js/main.fbf9999b.chunk.js"
+  ]
+}
