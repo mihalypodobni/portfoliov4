@@ -2,6 +2,7 @@ import styled from 'styled-components'
 
 export const ProjectsContainer = styled.div`
     height: auto;
+    margin-top:50px;
     background: #FFF;
 
     display: flex;

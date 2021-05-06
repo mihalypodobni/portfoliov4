@@ -15,8 +15,6 @@ export const InfoWrapper = styled.div`
     height:430px;
     width:100%;
     max-width:1100px;
-    border-bottom:1px solid red;
-
     margin-right: auto;
     margin-left:auto;
     padding: 0 24px;
@@ -93,6 +91,6 @@ export const ImgWrap = styled.div`
 
 export const Img = styled.img`
     width: 100%;
-    margin: 0 0 10px 0;
+    margin: 0 0 0 0;
     padding-right: 0;
 `

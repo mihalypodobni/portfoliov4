@@ -1,3 +1,7 @@
+import img from '../../images/asci.png'
+import vid1 from '../../video/video.mp4'
+
+
 export const homeObjOne = {
     id: 'about',
     lightBg: true,
@@ -7,7 +11,7 @@ export const homeObjOne = {
     headline: 'Berlin based front-end developer',
     description: 'Hur durr lorem ipsum, thingly dingly, bam bam bma stext more text',
     imgStart: false,
-    img: '../../images/asci.png',
+    img,
     alt: 'cover',
     dark: true,
     primary: true,
@@ -23,7 +27,7 @@ export const homeObjTwo = {
     headline: 'Creating captivating multimedia content',
     description: `I'm creating engaging content using various media, from web apps to interactive videos.`,
     imgStart: true,
-    img: require('../../images/raster.png'),
+    img,
     alt: 'cover',
     dark: false,
     primary: true,
@@ -39,7 +43,7 @@ export const homeObjThree = {
     headline: 'Take a look at my previous projects below!',
     description: 'You can find various examples of my previous work',
     imgStart: false,
-    img: require('../../images/oimachi.png'),
+    img,
     alt: 'cover',
     dark: false,
     primary: true,
